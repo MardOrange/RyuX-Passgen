@@ -28,10 +28,8 @@ Developed by [Your Name].
 
 
 | Dark-themed                            |                            |
-| ----------------------------------- | ----------![Window](https://g![Screenshot 2025-02-13 010604](https://github.com/user-attachments/assets/c0adfb67-0608-4edb-a2eb-efca06e46e15)
-ithub.com/user-attachments/assets/010cb972-0bd1-4059-9ab9-19700bca993b)
-------------------------- |
-| ![PREVIEW_2]([https://github.com/MardOrange/Retro-Scifi-70s-Themed/assets/144544417/64ea773d-075d-497e-bcc6-ced7105f5461](https://github.com/user-attachments/assets/40fcb921-34aa-4d13-8566-b628d5688407)) | ![PREVIEW_1]([https://github.com/MardOrange/Retro-Scifi-70s-Themed/assets/144544417/d64224c3-ad0a-4bf0-bca2-040c57baf612](https://github.com/user-attachments/assets/eb9396c8-0786-49e7-944e-0854b297d1c6)) 
+|![Window](https://github.com/user-attachments/assets/f200d8ac-6a00-4e1d-b41d-ace961e5de2f) | ![Screenshot 2025-02-13 010604](https://github.com/user-attachments/assets/176cbc14-33ef-44f7-8ec8-24064b57920b) |
+
 
 
 
