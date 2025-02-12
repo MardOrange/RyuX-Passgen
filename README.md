@@ -1,5 +1,6 @@
-# RyuX-Passgen
+# RyuX-Passgen ![icon](https://github.com/user-attachments/assets/761beb8a-ce70-4e48-8f3f-555457aeb7a7)
 Dark-themed
+
 | Generator | History viewer |
 |---------|---------|
 | ![Window](https://github.com/user-attachments/assets/f200d8ac-6a00-4e1d-b41d-ace961e5de2f) | ![Screenshot 2025-02-13 010604](https://github.com/user-attachments/assets/176cbc14-33ef-44f7-8ec8-24064b57920b) |
@@ -18,7 +19,7 @@ RyuX Passgen is an open-source password generator built using Python and Tkinter
 - Executable version available for easy installation
 
 ## Installation
-[RyuX-Passgen V1.1](https://sourceforge.net/projects/ryux-passgen/files/RyuX-Passgen.zip/download)
+[RyuX-Passgen V1.1](https://sourceforge.net/projects/ryux-passgen/files/RyuX-Passgen.zip/download) 
 
 
 ## License
