@@ -29,7 +29,7 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 Contributions are welcome! Feel free to submit issues and pull requests.
 
 ## Author
-Developed by MardOrange.
+Developed by [MardOrange.](https://github.com/MardOrange)
 
 
 
