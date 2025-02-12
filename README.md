@@ -1,6 +1,6 @@
 # RyuX-Passgen
 Dark-themed
-| Image 1 | Image 2 |
+| Generator | History viewer |
 |---------|---------|
 | ![Window](https://github.com/user-attachments/assets/f200d8ac-6a00-4e1d-b41d-ace961e5de2f) | ![Screenshot 2025-02-13 010604](https://github.com/user-attachments/assets/176cbc14-33ef-44f7-8ec8-24064b57920b) |
 
