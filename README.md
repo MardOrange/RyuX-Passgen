@@ -18,7 +18,7 @@ RyuX Passgen is an open-source password generator built using Python and Tkinter
 - Executable version available for easy installation
 
 ## Installation
-Download the latest executable (`.exe`) file from [SourceForge]([https://sourceforge.net/](https://sourceforge.net/projects/ryux-passgen/files/RyuX-Passgen.zip/download) and run it on your Windows machine. No additional dependencies required.
+Download the latest executable (`.exe`) file from https://sourceforge.net/projects/ryux-passgen/files/RyuX-Passgen.zip/download) and run it on your Windows machine. No additional dependencies required.
 
 ## License
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
