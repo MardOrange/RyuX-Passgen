@@ -26,7 +26,7 @@ RyuX Passgen is an open-source password generator built using Python and Tkinter
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
-Contributions are welcome! Feel free to submit issues and pull requests.
+Contributions are welcome! Feel free to [submit issues](https://github.com/MardOrange/RyuX-Passgen/issues) and [pull requests](https://github.com/MardOrange/RyuX-Passgen/pulls).
 
 ## Author
 Developed by [MardOrange.](https://github.com/MardOrange)
